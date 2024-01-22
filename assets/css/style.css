@@ -61,6 +61,11 @@ body {
     text-align: center;
     line-height: 53px;
     border-radius: 8px;
+    cursor: pointer;
+}
+
+.left .action .thumb:hover {
+    background-color: #141d46;
 }
 
 .right {
